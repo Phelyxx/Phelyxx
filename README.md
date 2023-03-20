@@ -16,20 +16,16 @@
 
 <br />
 
-[![Felix Rojas github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=Phelyxxi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/Phelyxxi?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/UjwalKandi)
+[![Felix Rojas github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=Phelyxx&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/Phelyxxi?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/UjwalKandi)
 
 
 #### Find me on  
 
  <p align='left'>
- <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/Phelyxx/Phelyxx/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/Phelyxx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/Phelyxx/Phelyxx/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  </p>
 
-
-![build](https://github.com/Phelyxx/Phelyxx/blob/changes-to-readme/svg/badge.svg)
-![GitHub last commit](https://github.com/Phelyxx/Phelyxx/blob/master/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=Phelyxx)
 
 
 -----
