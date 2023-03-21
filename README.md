@@ -9,9 +9,8 @@
 
 <h2 align="left">Hi there, I'm Felix Rojas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- ⚡ I am passionate about solving technical problems and developing innovative software applications for a variety of platforms. 
+⚡ I am passionate about solving technical problems and developing innovative software applications for a variety of platforms. 
  
 
 <br />
@@ -22,7 +21,7 @@
 #### Find me on  
 
  <p align='left'>
- <a href="https://github.com/Phelyxx" target="_blank"><img height="25" src="https://raw.githubusercontent.com/Phelyxx/Phelyxx/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/Phelyxx" target="_blank"><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>&nbsp;&nbsp;
  
  </p>
 
