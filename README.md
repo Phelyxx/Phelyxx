@@ -7,7 +7,7 @@
 -->
 
 
-<h2 align="left">Hi there, I'm Felix Rojas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /> /h2>
+<h2 align="left">Hi there, I'm Felix Rojas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /> </h2>
  
 
 - ⚡ I am passionate about solving technical problems and developing innovative software applications for a variety of platforms. 
@@ -21,7 +21,7 @@
 #### Find me on  
 
  <p align='left'>
- <a href="https://github.com/Phelyxx" target="_blank"><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>&nbsp;&nbsp;
+ <a href="https://github.com/Phelyxx" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></a>&nbsp;&nbsp;
  
  </p>
 
