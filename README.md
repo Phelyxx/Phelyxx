@@ -10,7 +10,7 @@
 <h2 align="left">Hi there, I'm Felix Rojas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
 
-⚡ I am passionate about solving technical problems and developing innovative software applications for a variety of platforms. 
+- ⚡ I am passionate about solving technical problems and developing innovative software applications for a variety of platforms. 
  
 
 <br />
