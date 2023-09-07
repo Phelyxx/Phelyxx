@@ -10,12 +10,10 @@
 <h2 align="left">Hi there, I'm Felix Rojas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /> </h2>
  
 
-- ⚡ I am passionate about solving technical problems and developing innovative software applications. 
- 
 
 <br />
 
-[![Felix Rojas github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=Phelyxx&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/Phelyxx?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/Phelyxx)
+[![Felix Rojas github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=Phelyxx&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/Phelyxx?tab=repositories)&nbsp;&nbsp;
 
 
 #### Find me on  
